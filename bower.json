@@ -1,0 +1,31 @@
+{
+  "name": "bootstrap-responsive-margins",
+  "version": "1.0.0",
+  "authors": [
+    "Alexey Kucherenko <alexei.kucherenko@gmail.com>",
+    "Robert Moggach <rob@moggach.com>"
+  ],
+  "main": [
+    "bootstrap-responsive-margins.less",
+    "dist/bootstrap-responsive-margins.css"
+  ],
+  "keywords": [
+    "bootstrap",
+    "responsive",
+    "margins",
+    "vertical",
+    "offset"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/killmenot/bootstrap-responsive-margins",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
