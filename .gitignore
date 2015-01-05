@@ -29,6 +29,7 @@ node_modules
 
 # Sublime Text
 *.sublime-project
+*.sublime-workspace
 
 # Folders to ignore
 bower_components
